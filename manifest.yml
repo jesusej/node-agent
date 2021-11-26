@@ -1,0 +1,4 @@
+---
+applications:
+ - name: testing-jesus
+   random-route: true
